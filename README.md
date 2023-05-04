@@ -17,9 +17,9 @@ https://drive.google.com/drive/folders/1pCiBqvItr4K8-zJZ3WTG0lvnNh--s22S?usp=sha
 
 <b>Model training results:</b>
 <p float="center">
-  <img src="trainingProcess.png" width="450" />
+  <img src="trainingProcess.png" width="350" />
 </p>
 
 <p float="center">
-  <img src="resultingAP.png" width="650" />
+  <img src="resultingAP.png" width="250" />
 </p>
